@@ -1,0 +1,1 @@
+youtube-dl -o "/home/bull/Documents/youtube-dl/data-structure/%(playlist)s/%(playlist_index)s-%(title)s.%(ext)s" -f 18 https://www.youtube.com/playlist?list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb
